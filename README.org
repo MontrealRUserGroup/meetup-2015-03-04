@@ -4,6 +4,6 @@
 
 [[http://montrealrusergroup.github.io/meetup-2015-03-04/rug_magrittr.html][magrittr slides by François Lefebvre]].
 
-[[https://www.gnu.org/software/emacs/tour/][Emacs]]+[[http://ess.r-project.org/][ESS]]+[[http://www.emacswiki.org/emacs/ESSAuto-complete][autocomplete]] [[presented by Jean Monlong]]
+[[https://www.gnu.org/software/emacs/tour/][Emacs]]+[[http://ess.r-project.org/][ESS]]+[[http://www.emacswiki.org/emacs/ESSAuto-complete][autocomplete]] [[https://jmonlong.github.io/Ruser2015/][slides by Jean Monlong]] and [[https://github.com/jmonlong/Ruser2015][config files]].
 
 [[http://openrefine.org/][OpenRefine]] presented by Roberto Rocha. http://bit.ly/mtldata-open-refine
