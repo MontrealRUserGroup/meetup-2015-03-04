@@ -2,7 +2,7 @@
 
 [[https://github.com/rstats-gsoc/gsoc2015/wiki][R Google Summer of Code presented by Toby Dylan Hocking]].
 
-[[rug_magrittr.html][magrittr slides by François Lefebvre]].
+[[http://montrealrusergroup.github.io/meetup-2015-03-04/rug_magrittr.html][magrittr slides by François Lefebvre]].
 
 [[https://www.gnu.org/software/emacs/tour/][Emacs]]+[[http://ess.r-project.org/][ESS]]+[[http://www.emacswiki.org/emacs/ESSAuto-complete][autocomplete]] [[presented by Jean Monlong]]
 
